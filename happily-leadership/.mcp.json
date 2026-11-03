@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "happily": {
+      "type": "http",
+      "url": "https://mcp.happily.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+# How ChatGPT shows this skill. Claude reads only SKILL.md.
+interface:
+  display_name: "Give Recognition"
+  short_description: "Thank a colleague in your own words"
+  icon_small: "./assets/happily-icon-small.png"
+  icon_large: "./assets/happily-icon-large.png"
+  brand_color: "#4C32CC"
+  default_prompt: "Recognize Sam for shipping the new onboarding flow."

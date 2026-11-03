@@ -1,0 +1,28 @@
+{
+  "name": "happily-leadership",
+  "displayName": "Happily",
+  "version": "1.0.0",
+  "description": "Lead with what's actually happening on your team: goal heads-ups, 1:1 prep, key result updates, recognition and feedback replies from your Happily workspace.",
+  "author": {
+    "name": "Happily.ai",
+    "email": "support@happily.ai",
+    "url": "https://happily.ai"
+  },
+  "homepage": "https://happily.ai",
+  "license": "MIT",
+  "keywords": [
+    "happily",
+    "leadership",
+    "management",
+    "okr",
+    "goals",
+    "one-on-one",
+    "recognition",
+    "feedback"
+  ],
+  "icon": "./assets/happily-logo.png",
+  "privacyPolicyUrl": "https://happily.ai/privacy-policy",
+  "documentationUrl": "https://happily.ai/ai-assistants",
+  "supportUrl": "https://happily.ai/ai-assistants#help",
+  "termsOfServiceUrl": "https://happily.ai/terms-of-service"
+}

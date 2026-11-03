@@ -1,0 +1,8 @@
+# How ChatGPT shows this skill. Claude reads only SKILL.md.
+interface:
+  display_name: "Draft a Boost"
+  short_description: "Draft a performance review from real evidence"
+  icon_small: "./assets/happily-icon-small.png"
+  icon_large: "./assets/happily-icon-large.png"
+  brand_color: "#4C32CC"
+  default_prompt: "Help me draft Jordan's Boost."

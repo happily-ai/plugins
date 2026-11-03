@@ -1,0 +1,8 @@
+# How ChatGPT shows this skill. Claude reads only SKILL.md.
+interface:
+  display_name: "1:1 Prep"
+  short_description: "Know what moved and what's stuck before a 1:1"
+  icon_small: "./assets/happily-icon-small.png"
+  icon_large: "./assets/happily-icon-large.png"
+  brand_color: "#4C32CC"
+  default_prompt: "Help me prepare for my next 1:1."
