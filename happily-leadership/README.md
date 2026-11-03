@@ -22,7 +22,7 @@ Try asking:
 In Claude Code:
 
 ```
-/plugin install happily-leadership --marketplace happily-ai/happily-claude
+/plugin install happily-leadership --marketplace happily-ai/plugins
 ```
 
 On claude.ai, add Happily from the plugin directory.

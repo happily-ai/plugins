@@ -5,7 +5,7 @@ The official [Happily](https://happily.ai) plugin. Lead with what's actually hap
 Install it in Claude Code:
 
 ```
-/plugin install happily-leadership --marketplace happily-ai/happily-claude
+/plugin install happily-leadership --marketplace happily-ai/plugins
 ```
 
 See [happily-leadership/README.md](happily-leadership/README.md) for what it does, what it connects to and how it keeps your team's trust. Help: https://happily.ai/ai-assistants#help
