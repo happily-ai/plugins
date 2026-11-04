@@ -3,7 +3,7 @@ name: setup
 description: Connect Happily, check your account and the team you manage, and choose a weekly brief after your Weekly Insights email plus timely 1:1 prep.
 ---
 
-Verify that the Happily tools are available. If authentication is needed, use the client's Connect or MCP authentication flow. People sign in on Happily's own page in the browser (during the private pilot, with an administrator-issued personal credential). Never ask for a password, passcode or credential in chat, an environment file, or a plugin manifest. Do not substitute backend service-account credentials.
+Verify that the Happily tools are available. If authentication is needed, use the client's Connect or MCP authentication flow. People sign in on Happily's own page in the browser, with an emailed code or their company's single sign-on. Never ask for a password, passcode or credential in chat, an environment file, or a plugin manifest. Do not substitute backend service-account credentials.
 
 Call Happily `whoami` to verify the person, company, role and team. Explain the actual scope; company-wide access is not implied by being a manager. If the account/company is wrong, stop data collection and help reconnect. A missing employee team for a company administrator is not permission to guess one.
 
